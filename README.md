@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Pranav Jain 👋
 
-<!--
-**SAGEOFCODING/SAGEOFCODING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at MAIMS, Delhi  
+💻 Programming Student & Tech Enthusiast  
+🎮 Gamer | 🚀 Tech Explorer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning Programming and Data Science
+- Interested in Python, AI, and Web Technologies
+- Building projects to improve my skills
+- Always exploring new technologies
+
+## Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## Currently Learning
+
+- Data Science
+- Machine Learning
+- Full-Stack Development
+
+## Connect With Me
+
+- GitHub: your-github-username
+- LinkedIn: your-linkedin-profile
+
+---
+⭐ Learning something new every day.
