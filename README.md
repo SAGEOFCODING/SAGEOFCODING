@@ -1,35 +1,34 @@
-# Hi, I'm Pranav Jain 👋
+# Hey there!
 
-🎓 BCA Student at MAIMS, Delhi  
-💻 Programming Student & Tech Enthusiast  
-🎮 Gamer | 🚀 Tech Explorer
+I'm Pranav, a BCA student based in Delhi.
 
-## About Me
+I'm interested in programming, data science, and software development. I enjoy building projects, learning new technologies, and improving my problem-solving skills through hands-on work.
 
-- Learning Programming and Data Science
-- Interested in Python, AI, and Web Technologies
-- Building projects to improve my skills
-- Always exploring new technologies
+Most of my current work revolves around Python, data analysis, and web technologies. I'm always looking for opportunities to learn, experiment, and create projects that help me grow as a developer.
 
-## Skills
+You'll find a collection of my projects here, ranging from academic work to personal experiments and learning-focused builds.
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Git & GitHub
+### Currently Exploring
 
-## Currently Learning
+* Data Science & Machine Learning
+* Python Development
+* Full-Stack Web Development
+* Artificial Intelligence
 
-- Data Science
-- Machine Learning
-- Full-Stack Development
+### Technologies
 
-## Connect With Me
+* Python
+* HTML
+* CSS
+* JavaScript
+* SQL
+* Git & GitHub
 
-- GitHub: your-github-username
-- LinkedIn: your-linkedin-profile
+### A Few Things About Me
 
----
-⭐ Learning something new every day.
+* BCA student at MAIMS, Delhi
+* Enjoy solving programming challenges
+* Interested in emerging technologies and AI
+* Gamer and tech enthusiast
+
+Thanks for visiting my profile.
